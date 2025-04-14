@@ -8,4 +8,3 @@ function person(firstName, lastName) {
 
 //esporto la funzione
 module.exports = person;
-console.log(person);
